@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Button
+  - Target1
+  - shield
+  - Enemy
+  - petPos
+  - companionManager
+  - Ground
+  - Necromancer
+  - LavePoint1
+  - LavePoint2
+  - LavePoint3
+  - SmokePoint1
+  - SmokePoint2
+  - SmokePoint3
+  - BackButton
+  - SummonPoint1
+  - SummonPoint2
+  - SceneTransactionPanel
+  - enemyHealth
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Mob
+  - FlyingMob
+  - Player
+  - MiniBoss
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

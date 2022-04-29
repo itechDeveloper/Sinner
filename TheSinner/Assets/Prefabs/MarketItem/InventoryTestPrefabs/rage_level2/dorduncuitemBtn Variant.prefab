@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &172108759019041981
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -3520156358098276320, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: itemButton
+      value: 
+      objectReference: {fileID: 7979268084782415997, guid: d6c1433bcdbb9a847abc33ef51af3613, type: 3}
+    - target: {fileID: 1796601869433378955, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_Name
+      value: dorduncuitemBtn Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2576708457200285499, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: level
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2576708457200285499, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1913391989637852214, guid: 79363f474155c434db250fee1e3c4f8e, type: 3}
+    - target: {fileID: 2576708457200285499, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: itemtousedBtn
+      value: 
+      objectReference: {fileID: 3529160937740785656, guid: a2134c5238a0df14b87ae139c850ffbd, type: 3}
+    - target: {fileID: 2576708457200285499, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: itemButton
+      value: 
+      objectReference: {fileID: 7979268084782415997, guid: d6c1433bcdbb9a847abc33ef51af3613, type: 3}
+    - target: {fileID: 2576708457200285499, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: whichStone
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094753375985913526, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4690542071737572546, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 2361725087032394992, guid: 98fa46b7510978f459b80df543549264, type: 3}
+    - target: {fileID: 5537559387773638938, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: level
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5537559387773638938, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1913391989637852214, guid: 79363f474155c434db250fee1e3c4f8e, type: 3}
+    - target: {fileID: 5537559387773638938, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: itemtousedBtn
+      value: 
+      objectReference: {fileID: 3529160937740785656, guid: a2134c5238a0df14b87ae139c850ffbd, type: 3}
+    - target: {fileID: 5537559387773638938, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: itemButton
+      value: 
+      objectReference: {fileID: 7979268084782415997, guid: d6c1433bcdbb9a847abc33ef51af3613, type: 3}
+    - target: {fileID: 5537559387773638938, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: whichStone
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 6533367147400677148, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: cost
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 6663033511350578303, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: itemButton
+      value: 
+      objectReference: {fileID: 6232808282745500097, guid: aa3a8ee527f68b74d89a001a359c872a, type: 3}
+    - target: {fileID: 6663033511350578303, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1913391989637852214, guid: 79363f474155c434db250fee1e3c4f8e, type: 3}
+    - target: {fileID: 6663033511350578303, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: level
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7547309407421182518, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7681690380469107285, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_Text
+      value: "-pervas\u0131z huc\xFCm sv2-\nkontrols\xFCz sald\u0131r\u0131 kan damlata
+        bilir ama kimden ?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8714480133320707874, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 837c4f629d0c96c4795e20b544b07001, type: 3}

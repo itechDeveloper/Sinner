@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4444464482938200179
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1355317269288814667, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: itemButton
+      value: 
+      objectReference: {fileID: 287506831427800737, guid: ab980f61466a5324eab4754ebfb67e30, type: 3}
+    - target: {fileID: 1355317269288814667, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: whichCompanion
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827422576382, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_Text
+      value: "-\u015Fifac\u0131-\nonu sa\u011Fl\u0131\u011F\u0131na kavu\u015Fturmal\u0131y\u0131m\n500g"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827516154595, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827617380168, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -7873313509577613512, guid: 7552e852f372c9745947fc09924178d1, type: 3}
+    - target: {fileID: 1613775827617380168, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827617380169, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -23.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827617380169, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827617380169, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827617380169, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827617380169, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827617380169, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827617380169, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827617380169, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827617380169, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827617380169, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827617380169, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827617380169, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827617380169, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613775827617380172, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_Name
+      value: marketitem Variant Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498677938691497540, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 0a031d34a38b28d4d95bc7983b4dbe8d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eedffcfbb35aa2a448dccbeb5a9d8bb3, type: 3}

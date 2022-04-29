@@ -1,0 +1,1207 @@
+fileFormatVersion: 2
+guid: 73515a5f20d07d14a8f83e3afa1c04de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6923530298629688357
+    second: citymarketFinal_0
+  - first:
+      213: -5888309825577851074
+    second: citymarketFinal_1
+  - first:
+      213: -300174480688486344
+    second: citymarketFinal_2
+  - first:
+      213: 1169140222079493471
+    second: citymarketFinal_3
+  - first:
+      213: 4303604009383813423
+    second: citymarketFinal_4
+  - first:
+      213: -6684307806072543431
+    second: citymarketFinal_5
+  - first:
+      213: -2316455394761511384
+    second: citymarketFinal_6
+  - first:
+      213: 9208455007042819581
+    second: citymarketFinal_7
+  - first:
+      213: -233533912846221846
+    second: citymarketFinal_8
+  - first:
+      213: -5753890525367821342
+    second: citymarketFinal_9
+  - first:
+      213: 2009669583085742902
+    second: citymarketFinal_10
+  - first:
+      213: -1118948859583726113
+    second: citymarketFinal_11
+  - first:
+      213: -5539142726828176455
+    second: citymarketFinal_12
+  - first:
+      213: -3285527877854897584
+    second: citymarketFinal_13
+  - first:
+      213: -9125793590585956821
+    second: citymarketFinal_14
+  - first:
+      213: 845663941403880107
+    second: citymarketFinal_15
+  - first:
+      213: 5769323596347744559
+    second: citymarketFinal_16
+  - first:
+      213: -5733820921657954993
+    second: citymarketFinal_17
+  - first:
+      213: 8818605183209924990
+    second: citymarketFinal_18
+  - first:
+      213: 7806009239582259822
+    second: citymarketFinal_19
+  - first:
+      213: -6859675865714891697
+    second: citymarketFinal_20
+  - first:
+      213: 6807592981143301146
+    second: citymarketFinal_21
+  - first:
+      213: 3545773684534707714
+    second: citymarketFinal_22
+  - first:
+      213: 2009625438976905839
+    second: citymarketFinal_23
+  - first:
+      213: 5437118110287375528
+    second: citymarketFinal_24
+  - first:
+      213: -6974155925237259892
+    second: citymarketFinal_25
+  - first:
+      213: -5297978187188540118
+    second: citymarketFinal_26
+  - first:
+      213: 3176029650188013638
+    second: citymarketFinal_27
+  - first:
+      213: -6607930897422839632
+    second: citymarketFinal_28
+  - first:
+      213: 7219150550107185323
+    second: citymarketFinal_29
+  - first:
+      213: 6204178030601966306
+    second: citymarketFinal_30
+  - first:
+      213: 1488034942814215054
+    second: citymarketFinal_31
+  - first:
+      213: -2905482085665717969
+    second: citymarketFinal_32
+  - first:
+      213: 3265719481537728241
+    second: citymarketFinal_33
+  - first:
+      213: 6726248447091818289
+    second: citymarketFinal_34
+  - first:
+      213: 2717502785605771096
+    second: citymarketFinal_35
+  - first:
+      213: -2439855375398398783
+    second: citymarketFinal_36
+  - first:
+      213: 7248252580878689852
+    second: citymarketFinal_37
+  - first:
+      213: 7464636001000936630
+    second: citymarketFinal_38
+  - first:
+      213: -5605873575170654556
+    second: citymarketFinal_39
+  - first:
+      213: 5713232039107656259
+    second: citymarketFinal_40
+  - first:
+      213: 4734858934786679001
+    second: citymarketFinal_41
+  - first:
+      213: 6783848365009059876
+    second: citymarketFinal_42
+  - first:
+      213: 8371101388401266355
+    second: citymarketFinal_43
+  - first:
+      213: -4099857851469272120
+    second: citymarketFinal_44
+  - first:
+      213: -1622837310593626079
+    second: citymarketFinal_45
+  - first:
+      213: -8293691486885871396
+    second: citymarketFinal_46
+  - first:
+      213: 3664353073598699125
+    second: citymarketFinal_47
+  - first:
+      213: 5371352837882655087
+    second: citymarketFinal_48
+  - first:
+      213: -5169779600369689212
+    second: citymarketFinal_49
+  - first:
+      213: -5777457189576458353
+    second: citymarketFinal_50
+  - first:
+      213: 3617172839674649466
+    second: citymarketFinal_51
+  - first:
+      213: -2532554842037353116
+    second: citymarketFinal_52
+  - first:
+      213: 7344063667040078810
+    second: citymarketFinal_53
+  - first:
+      213: 8861127240253896695
+    second: citymarketFinal_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: citymarketFinal_0
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 8159
+        width: 4117
+        height: 1303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3f58630edaaef90800000000000000
+      internalID: -6923530298629688357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_1
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 7104
+        width: 1013
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e376df64965884ea0800000000000000
+      internalID: -5888309825577851074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_2
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 7113
+        width: 338
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838ece376e095dbf0800000000000000
+      internalID: -300174480688486344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_3
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 6087
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f556bad66de993010800000000000000
+      internalID: 1169140222079493471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_4
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 6087
+        width: 108
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21e4498b0979bb30800000000000000
+      internalID: 4303604009383813423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_5
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 6087
+        width: 107
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937eca127719c33a0800000000000000
+      internalID: -6684307806072543431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_6
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 6087
+        width: 108
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ee331771c4adfd0800000000000000
+      internalID: -2316455394761511384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_7
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 6087
+        width: 108
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df554f85a010bcf70800000000000000
+      internalID: 9208455007042819581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_8
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 6087
+        width: 108
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed3bc1c42252ccf0800000000000000
+      internalID: -233533912846221846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_9
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 5927
+        width: 127
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb17f67d031620b0800000000000000
+      internalID: -5753890525367821342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_10
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5927
+        width: 127
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63babbf86d7c3eb10800000000000000
+      internalID: 2009669583085742902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_11
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 5927
+        width: 127
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddfeaec0f1b870f0800000000000000
+      internalID: -1118948859583726113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_12
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 5927
+        width: 127
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbc73f99030123b0800000000000000
+      internalID: -5539142726828176455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_20
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 5421
+        width: 174
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f446ebde4298dc0a0800000000000000
+      internalID: -6859675865714891697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_21
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 5913
+        width: 338
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c2d788fbd697e50800000000000000
+      internalID: 6807592981143301146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_22
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 5421
+        width: 202
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2068e98316e153130800000000000000
+      internalID: 3545773684534707714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_23
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 5421
+        width: 651
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f629ec570bf93eb10800000000000000
+      internalID: 2009625438976905839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_24
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 5927
+        width: 122
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aca58d3d16847b40800000000000000
+      internalID: 5437118110287375528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_25
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 5927
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c812c0cf222d63f90800000000000000
+      internalID: -6974155925237259892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_26
+      rect:
+        serializedVersion: 2
+        x: 3819
+        y: 5927
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2debdc98ecc976b0800000000000000
+      internalID: -5297978187188540118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_27
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 5876
+        width: 507
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6409097b326831c20800000000000000
+      internalID: 3176029650188013638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_28
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 5445
+        width: 211
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b098ceebd9eb44a0800000000000000
+      internalID: -6607930897422839632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_29
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 5618
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba064373d239f2460800000000000000
+      internalID: 7219150550107185323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_31
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 5524
+        width: 112
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b5fc385ef86a410800000000000000
+      internalID: 1488034942814215054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_34
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 5445
+        width: 234
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f3eef435f685d50800000000000000
+      internalID: 6726248447091818289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_35
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 5449
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f9a24b26286b520800000000000000
+      internalID: 2717502785605771096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_36
+      rect:
+        serializedVersion: 2
+        x: 4035
+        y: 5449
+        width: 173
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c41d068674e32ed0800000000000000
+      internalID: -2439855375398398783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_37
+      rect:
+        serializedVersion: 2
+        x: 4447
+        y: 5454
+        width: 61
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c362595c157f69460800000000000000
+      internalID: 7248252580878689852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_38
+      rect:
+        serializedVersion: 2
+        x: 4217
+        y: 5449
+        width: 179
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4d041c4e6b79760800000000000000
+      internalID: 7464636001000936630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_39
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 4999
+        width: 211
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae34304fafe332b0800000000000000
+      internalID: -5605873575170654556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_40
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 4999
+        width: 202
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a7462054a794f40800000000000000
+      internalID: 5713232039107656259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_41
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 4652
+        width: 436
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d06b856d1995b140800000000000000
+      internalID: 4734858934786679001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_42
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 4826
+        width: 206
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420ca764522152e50800000000000000
+      internalID: 6783848365009059876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_43
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 4826
+        width: 206
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3becf6a5c502c2470800000000000000
+      internalID: 8371101388401266355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_44
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 4671
+        width: 84
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbe39d81016a17c0800000000000000
+      internalID: -4099857851469272120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_46
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 4657
+        width: 206
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd08c77d883e6ec80800000000000000
+      internalID: -8293691486885871396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_47
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 4643
+        width: 206
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5761673b4b56ad230800000000000000
+      internalID: 3664353073598699125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_48
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 4643
+        width: 202
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61384982f0ea8a40800000000000000
+      internalID: 5371352837882655087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_49
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 4671
+        width: 464
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d57e818d04148b0800000000000000
+      internalID: -5169779600369689212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_50
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 4671
+        width: 84
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fb44edb4952dfa0800000000000000
+      internalID: -5777457189576458353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_51
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 4671
+        width: 84
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b9ff77887c23230800000000000000
+      internalID: 3617172839674649466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_52
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 4596
+        width: 211
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4650b2a0ace8adcd0800000000000000
+      internalID: -2532554842037353116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_53
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 4535
+        width: 211
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbc6c1aefa5be560800000000000000
+      internalID: 7344063667040078810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citymarketFinal_54
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 129
+        width: 3836
+        height: 4144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7fed8d64c09fa70800000000000000
+      internalID: 8861127240253896695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

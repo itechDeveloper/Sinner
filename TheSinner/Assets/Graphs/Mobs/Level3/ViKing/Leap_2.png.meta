@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: 2874e09aee5321c44abe1d6d206261b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5354125663340780699
+    second: Leap_2_0
+  - first:
+      213: 5959223144973253525
+    second: Leap_2_1
+  - first:
+      213: -4268510554164215621
+    second: Leap_2_2
+  - first:
+      213: 421342734375924999
+    second: Leap_2_3
+  - first:
+      213: 2940801808374585068
+    second: Leap_2_4
+  - first:
+      213: -1053231430094390134
+    second: Leap_2_5
+  - first:
+      213: -3861207933543950569
+    second: Leap_2_6
+  - first:
+      213: -4062521026008141654
+    second: Leap_2_7
+  - first:
+      213: 7807180131642055386
+    second: Leap_2_8
+  - first:
+      213: 6674979182209623251
+    second: Leap_2_9
+  - first:
+      213: -2782808699517237132
+    second: Leap_2_0
+  - first:
+      213: -6741158199658971538
+    second: Leap_2_1
+  - first:
+      213: -2453908635586958562
+    second: Leap_2_2
+  - first:
+      213: 2989747889750956983
+    second: Leap_2_3
+  - first:
+      213: 8086817305900551631
+    second: Leap_2_4
+  - first:
+      213: -6083593314073078671
+    second: Leap_2_5
+  - first:
+      213: -8052345406026445139
+    second: Leap_2_6
+  - first:
+      213: 4600469660903023896
+    second: Leap_2_7
+  - first:
+      213: -8419593247266787873
+    second: Leap_2_8
+  - first:
+      213: -4888542686862446778
+    second: Leap_2_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leap_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 520
+        height: 216
+      alignment: 9
+      pivot: {x: 0.31, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47888635b3a7169d0800000000000000
+      internalID: -2782808699517237132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap_2_1
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 40
+        width: 520
+        height: 216
+      alignment: 9
+      pivot: {x: 0.31, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e7d9665589272a0800000000000000
+      internalID: -6741158199658971538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap_2_2
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 40
+        width: 520
+        height: 216
+      alignment: 9
+      pivot: {x: 0.31, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b6398e817f1fdd0800000000000000
+      internalID: -2453908635586958562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap_2_3
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 40
+        width: 520
+        height: 216
+      alignment: 9
+      pivot: {x: 0.31, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb54988dd7bd7920800000000000000
+      internalID: 2989747889750956983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap_2_4
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 40
+        width: 520
+        height: 216
+      alignment: 9
+      pivot: {x: 0.31, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd0fa17e752a3070800000000000000
+      internalID: 8086817305900551631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap_2_5
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 40
+        width: 520
+        height: 216
+      alignment: 9
+      pivot: {x: 0.31, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1749bb4fc1cb29ba0800000000000000
+      internalID: -6083593314073078671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap_2_6
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 40
+        width: 520
+        height: 216
+      alignment: 9
+      pivot: {x: 0.31, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae8b013482504090800000000000000
+      internalID: -8052345406026445139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap_2_7
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 40
+        width: 520
+        height: 216
+      alignment: 9
+      pivot: {x: 0.31, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815261248c628df30800000000000000
+      internalID: 4600469660903023896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap_2_8
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 40
+        width: 520
+        height: 216
+      alignment: 9
+      pivot: {x: 0.31, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdda26fec88972b80800000000000000
+      internalID: -8419593247266787873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap_2_9
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 40
+        width: 520
+        height: 216
+      alignment: 9
+      pivot: {x: 0.31, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fea30b358682cb0800000000000000
+      internalID: -4888542686862446778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: e3298ea2c7d95904bb6ea2b621ef4498
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 886557183449407133
+    second: IceShard_0
+  - first:
+      213: 6696346909227597119
+    second: IceShard_1
+  - first:
+      213: -3273160235236846596
+    second: IceShard_2
+  - first:
+      213: -1463203973704468318
+    second: IceShard_3
+  - first:
+      213: -4558945440610594769
+    second: IceShard_4
+  - first:
+      213: 6925480663195097122
+    second: IceShard_5
+  - first:
+      213: 6624349695341236234
+    second: IceShard_6
+  - first:
+      213: -8855402841251223556
+    second: IceShard_7
+  - first:
+      213: -3255871902098860644
+    second: IceShard_8
+  - first:
+      213: -1627898880124149226
+    second: IceShard_9
+  - first:
+      213: -3006887215814980739
+    second: IceShard_10
+  - first:
+      213: -5963368772981006063
+    second: IceShard_11
+  - first:
+      213: 4892954944911540603
+    second: IceShard_12
+  - first:
+      213: -8975766578529227398
+    second: IceShard_13
+  - first:
+      213: 2908400672812116596
+    second: IceShard_14
+  - first:
+      213: 3716162920033290084
+    second: IceShard_15
+  - first:
+      213: 4678378631256718105
+    second: IceShard_16
+  - first:
+      213: -7092618969580136508
+    second: IceShard_17
+  - first:
+      213: 6748359283888170691
+    second: IceShard_18
+  - first:
+      213: -2493052197006721580
+    second: IceShard_19
+  - first:
+      213: 1877191833073086897
+    second: IceShard_20
+  - first:
+      213: -7359329407526749054
+    second: IceShard_21
+  - first:
+      213: -1144881277304302846
+    second: IceShard_22
+  - first:
+      213: 456618758677855464
+    second: IceShard_23
+  - first:
+      213: 1130406305415550870
+    second: IceShard_24
+  - first:
+      213: -8589423129396245701
+    second: IceShard_25
+  - first:
+      213: 6192607155239731400
+    second: IceShard_26
+  - first:
+      213: 8682466064786540074
+    second: IceShard_27
+  - first:
+      213: 7729696504108967956
+    second: IceShard_28
+  - first:
+      213: 2311080170733026992
+    second: IceShard_29
+  - first:
+      213: 8572938866560203376
+    second: IceShard_30
+  - first:
+      213: 2974431833024471519
+    second: IceShard_31
+  - first:
+      213: -6194144173804539101
+    second: IceShard_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceShard_0
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1536
+        width: 294
+        height: 512
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e9298af0fad4c00800000000000000
+      internalID: 886557183449407133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceShard_1
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1536
+        width: 308
+        height: 512
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dbb4109043eec50800000000000000
+      internalID: 6696346909227597119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceShard_2
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1536
+        width: 358
+        height: 512
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf316c5ab166392d0800000000000000
+      internalID: -3273160235236846596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceShard_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1024
+        width: 373
+        height: 512
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8b7610db7a1bbe0800000000000000
+      internalID: -1463203973704468318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceShard_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1024
+        width: 501
+        height: 512
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20d40ea64f5bb0c0800000000000000
+      internalID: -4558945440610594769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceShard_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: 0, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228949c68ff3c1060800000000000000
+      internalID: 6925480663195097122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceShard_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 512
+        width: 359
+        height: 512
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0018ca53fa6eeb50800000000000000
+      internalID: 6624349695341236234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceShard_7
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 512
+        width: 321
+        height: 512
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf76c38a80a4b1580800000000000000
+      internalID: -8855402841251223556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceShard_8
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 512
+        width: 334
+        height: 512
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95d83161c1d0d2d0800000000000000
+      internalID: -3255871902098860644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceShard_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 334
+        height: 512
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612a1ffe79a8869e0800000000000000
+      internalID: -1627898880124149226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceShard_10
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 346
+        height: 512
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b4fa522046546d0800000000000000
+      internalID: -3006887215814980739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

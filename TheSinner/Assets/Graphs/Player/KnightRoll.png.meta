@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: ef4b15da25464d2428834450da5abafe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8006129126956962795
+    second: KnightRoll_0
+  - first:
+      213: -7122819207346589550
+    second: KnightRoll_1
+  - first:
+      213: -7599165145308703178
+    second: KnightRoll_2
+  - first:
+      213: -1031252142095977215
+    second: KnightRoll_3
+  - first:
+      213: 2641578905534214583
+    second: KnightRoll_4
+  - first:
+      213: -7861122858289805224
+    second: KnightRoll_5
+  - first:
+      213: 7003651820707844008
+    second: KnightRoll_6
+  - first:
+      213: 86888222862040662
+    second: KnightRoll_7
+  - first:
+      213: 2219791200701873726
+    second: KnightRoll_8
+  - first:
+      213: -4264409017880019351
+    second: KnightRoll_9
+  - first:
+      213: 1288466148868253726
+    second: KnightRoll_10
+  - first:
+      213: 8927507488223626731
+    second: KnightRoll_11
+  - first:
+      213: 4438579323981427161
+    second: KnightRoll_12
+  - first:
+      213: -3534285600730355692
+    second: KnightRoll_13
+  - first:
+      213: 3722474574516523536
+    second: KnightRoll_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KnightRoll_0
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 180
+        width: 218
+        height: 272
+      alignment: 9
+      pivot: {x: 0.47277692, y: 0.0019938524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c62d13af384e090800000000000000
+      internalID: -8006129126956962795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightRoll_1
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 181
+        width: 200
+        height: 261
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.0019937963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290f6c25ba9a62d90800000000000000
+      internalID: -7122819207346589550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightRoll_2
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 181
+        width: 206
+        height: 214
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.0019937963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636585cff875a8690800000000000000
+      internalID: -7599165145308703178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightRoll_3
+      rect:
+        serializedVersion: 2
+        x: 5416
+        y: 180
+        width: 235
+        height: 126
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.0019937963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105328cf3a140b1f0800000000000000
+      internalID: -1031252142095977215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightRoll_4
+      rect:
+        serializedVersion: 2
+        x: 7065
+        y: 190
+        width: 236
+        height: 169
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.0019937963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b13886d406c8a420800000000000000
+      internalID: 2641578905534214583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightRoll_5
+      rect:
+        serializedVersion: 2
+        x: 8852
+        y: 181
+        width: 158
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5674446, y: 0.001993719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858ceef096ea7e290800000000000000
+      internalID: -7861122858289805224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightRoll_6
+      rect:
+        serializedVersion: 2
+        x: 10618
+        y: 181
+        width: 190
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5477077, y: 0.001993542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af0fc75938f13160800000000000000
+      internalID: 7003651820707844008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightRoll_7
+      rect:
+        serializedVersion: 2
+        x: 12374
+        y: 182
+        width: 199
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5674446, y: 0.001993719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e5bdad060b43100800000000000000
+      internalID: 86888222862040662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightRoll_8
+      rect:
+        serializedVersion: 2
+        x: 14075
+        y: 180
+        width: 181
+        height: 245
+      alignment: 9
+      pivot: {x: 0.5674446, y: 0.001993719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e7f5906584ece10800000000000000
+      internalID: 2219791200701873726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightRoll_9
+      rect:
+        serializedVersion: 2
+        x: 15759
+        y: 182
+        width: 196
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5674446, y: 0.001993719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ef9409796c1d4c0800000000000000
+      internalID: -4264409017880019351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightRoll_10
+      rect:
+        serializedVersion: 2
+        x: 17415
+        y: 181
+        width: 198
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5674446, y: 0.001993719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e186864c22d81e110800000000000000
+      internalID: 1288466148868253726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightRoll_11
+      rect:
+        serializedVersion: 2
+        x: 19042
+        y: 181
+        width: 227
+        height: 270
+      alignment: 9
+      pivot: {x: 0.45518997, y: 0.001993702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be58535b2c0e4eb70800000000000000
+      internalID: 8927507488223626731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightRoll_12
+      rect:
+        serializedVersion: 2
+        x: 20662
+        y: 181
+        width: 218
+        height: 270
+      alignment: 9
+      pivot: {x: 0.47027308, y: 0.0018681278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d17e49e060099d30800000000000000
+      internalID: 4438579323981427161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightRoll_13
+      rect:
+        serializedVersion: 2
+        x: 22282
+        y: 182
+        width: 218
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4685529, y: 0.0003515173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41860b9b8f1b3fec0800000000000000
+      internalID: -3534285600730355692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightRoll_14
+      rect:
+        serializedVersion: 2
+        x: 23901
+        y: 181
+        width: 218
+        height: 270
+      alignment: 9
+      pivot: {x: 0.45956674, y: 0.0003515738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0121b7b27e2e8a330800000000000000
+      internalID: 3722474574516523536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

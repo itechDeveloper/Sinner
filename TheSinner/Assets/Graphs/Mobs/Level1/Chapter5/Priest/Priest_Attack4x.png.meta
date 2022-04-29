@@ -1,0 +1,781 @@
+fileFormatVersion: 2
+guid: 2527402ff444a9244a0354b158ce8ea1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8517584201255004220
+    second: Priest_Attack4x_0
+  - first:
+      213: -8177684830912564197
+    second: Priest_Attack4x_1
+  - first:
+      213: -3638845455062468620
+    second: Priest_Attack4x_2
+  - first:
+      213: -3425934305038680782
+    second: Priest_Attack4x_3
+  - first:
+      213: 5896456894245699028
+    second: Priest_Attack4x_4
+  - first:
+      213: -3522179878777656187
+    second: Priest_Attack4x_5
+  - first:
+      213: 5987384996840618249
+    second: Priest_Attack4x_6
+  - first:
+      213: -8265328384091763336
+    second: Priest_Attack4x_7
+  - first:
+      213: -9120162558374332986
+    second: Priest_Attack4x_8
+  - first:
+      213: 2025969989055802162
+    second: Priest_Attack4x_9
+  - first:
+      213: -6058627606019894467
+    second: Priest_Attack4x_10
+  - first:
+      213: -3438081920594607855
+    second: Priest_Attack4x_11
+  - first:
+      213: -5409785643815261993
+    second: Priest_Attack4x_12
+  - first:
+      213: -7822855424829908189
+    second: Priest_Attack4x_13
+  - first:
+      213: -2322777136274030456
+    second: Priest_Attack4x_14
+  - first:
+      213: 3018617322407913730
+    second: Priest_Attack4x_15
+  - first:
+      213: 6237229792762442641
+    second: Priest_Attack4x_16
+  - first:
+      213: -8567239436474074268
+    second: Priest_Attack4x_17
+  - first:
+      213: -8065178050988144830
+    second: Priest_Attack4x_18
+  - first:
+      213: 8478284150210065301
+    second: Priest_Attack4x_19
+  - first:
+      213: -5218283133213961664
+    second: Priest_Attack4x_20
+  - first:
+      213: 1627578959429949620
+    second: Priest_Attack4x_21
+  - first:
+      213: -2470050909954783996
+    second: Priest_Attack4x_22
+  - first:
+      213: -3199390192002393363
+    second: Priest_Attack4x_23
+  - first:
+      213: -8569254320919235352
+    second: Priest_Attack4x_24
+  - first:
+      213: 110059110408175545
+    second: Priest_Attack4x_25
+  - first:
+      213: -6824463035251181789
+    second: Priest_Attack4x_26
+  - first:
+      213: -5130254555129403943
+    second: Priest_Attack4x_27
+  - first:
+      213: 6428441378718655629
+    second: Priest_Attack4x_28
+  - first:
+      213: -7143017769968613404
+    second: Priest_Attack4x_29
+  - first:
+      213: 2193441540132524270
+    second: Priest_Attack4x_30
+  - first:
+      213: -1427062637259764140
+    second: Priest_Attack4x_31
+  - first:
+      213: 6183440872754346503
+    second: Priest_Attack4x_32
+  - first:
+      213: 4980613090099072390
+    second: Priest_Attack4x_33
+  - first:
+      213: 1538449875393359208
+    second: Priest_Attack4x_34
+  - first:
+      213: -8859944122338803541
+    second: Priest_Attack4x_35
+  - first:
+      213: 64889870858798126
+    second: Priest_Attack4x_36
+  - first:
+      213: -6000742295217155575
+    second: Priest_Attack4x_37
+  - first:
+      213: -9002435117179656009
+    second: Priest_Attack4x_38
+  - first:
+      213: -2112425029324587561
+    second: Priest_Attack4x_39
+  - first:
+      213: 4845372224398456081
+    second: Priest_Attack4x_40
+  - first:
+      213: 7360887371132662983
+    second: Priest_Attack4x_41
+  - first:
+      213: 4867624780187994615
+    second: Priest_Attack4x_42
+  - first:
+      213: 8832662548625472824
+    second: Priest_Attack4x_43
+  - first:
+      213: 4373172785273903285
+    second: Priest_Attack4x_44
+  - first:
+      213: -5365631575486509587
+    second: Priest_Attack4x_45
+  - first:
+      213: -6771565157089118116
+    second: Priest_Attack4x_46
+  - first:
+      213: 5111394692150634776
+    second: Priest_Attack4x_47
+  - first:
+      213: 2919622288008931973
+    second: Priest_Attack4x_48
+  - first:
+      213: -1068963408057869917
+    second: Priest_Attack4x_49
+  - first:
+      213: -6531314511754988383
+    second: Priest_Attack4x_50
+  - first:
+      213: 7021302478701980979
+    second: Priest_Attack4x_51
+  - first:
+      213: 2873233947357074723
+    second: Priest_Attack4x_52
+  - first:
+      213: 1785124467644816860
+    second: Priest_Attack4x_53
+  - first:
+      213: 4278747942005236083
+    second: Priest_Attack4x_54
+  - first:
+      213: -7885074053873931564
+    second: Priest_Attack4x_55
+  - first:
+      213: -6546930396573653192
+    second: Priest_Attack4x_56
+  - first:
+      213: 5664602961513625433
+    second: Priest_Attack4x_57
+  - first:
+      213: 2042823363074224807
+    second: Priest_Attack4x_58
+  - first:
+      213: 4562523158398224150
+    second: Priest_Attack4x_59
+  - first:
+      213: 4084037416590082111
+    second: Priest_Attack4x_60
+  - first:
+      213: -6557129113918968554
+    second: Priest_Attack4x_61
+  - first:
+      213: 8187099094689695402
+    second: Priest_Attack4x_62
+  - first:
+      213: 5206834815827634867
+    second: Priest_Attack4x_63
+  - first:
+      213: 3960191535259353597
+    second: Priest_Attack4x_64
+  - first:
+      213: 7177865986296599753
+    second: Priest_Attack4x_65
+  - first:
+      213: 7474493415072438527
+    second: Priest_Attack4x_66
+  - first:
+      213: -8748049258467199293
+    second: Priest_Attack4x_67
+  - first:
+      213: 6358234499242569892
+    second: Priest_Attack4x_68
+  - first:
+      213: 495425126032100356
+    second: Priest_Attack4x_69
+  - first:
+      213: 6736112470558485724
+    second: Priest_Attack4x_70
+  - first:
+      213: -4964320840512100627
+    second: Priest_Attack4x_71
+  - first:
+      213: 1815284653387891717
+    second: Priest_Attack4x_72
+  - first:
+      213: -4720251758314194582
+    second: Priest_Attack4x_73
+  - first:
+      213: -4234410699192693869
+    second: Priest_Attack4x_74
+  - first:
+      213: 2108626283728577055
+    second: Priest_Attack4x_75
+  - first:
+      213: 4223888586949284389
+    second: Priest_Attack4x_76
+  - first:
+      213: -4986027537598156198
+    second: Priest_Attack4x_77
+  - first:
+      213: 8534591937838903038
+    second: Priest_Attack4x_78
+  - first:
+      213: 2128654782633665198
+    second: Priest_Attack4x_79
+  - first:
+      213: -5620614843460170955
+    second: Priest_Attack4x_80
+  - first:
+      213: -706978500864067240
+    second: Priest_Attack4x_81
+  - first:
+      213: -1073839862445197221
+    second: Priest_Attack4x_82
+  - first:
+      213: 7770221180766354558
+    second: Priest_Attack4x_83
+  - first:
+      213: 4963301048413682647
+    second: Priest_Attack4x_84
+  - first:
+      213: 1937780309315135976
+    second: Priest_Attack4x_85
+  - first:
+      213: -7462554103431988497
+    second: Priest_Attack4x_86
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Priest_Attack4x_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1288
+        width: 144
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38a844f3b9843670800000000000000
+      internalID: 8517584201255004220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1288
+        width: 104
+        height: 224
+      alignment: 9
+      pivot: {x: 0.41, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b143b5839f6038e80800000000000000
+      internalID: -8177684830912564197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_2
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1288
+        width: 84
+        height: 224
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7f47a8659308dc0800000000000000
+      internalID: -3638845455062468620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_3
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1288
+        width: 84
+        height: 228
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d3854a6e2a470d0800000000000000
+      internalID: -3425934305038680782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 968
+        width: 164
+        height: 268
+      alignment: 9
+      pivot: {x: 0.66, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddfae6fd4c64d150800000000000000
+      internalID: 5896456894245699028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 968
+        width: 168
+        height: 276
+      alignment: 9
+      pivot: {x: 0.72, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ced62cf04be1fc0800000000000000
+      internalID: -3522179878777656187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 968
+        width: 168
+        height: 280
+      alignment: 9
+      pivot: {x: 0.73, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909303e9ee6771350800000000000000
+      internalID: 5987384996840618249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_7
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 968
+        width: 172
+        height: 272
+      alignment: 9
+      pivot: {x: 0.72, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dc14250a7ab4d80800000000000000
+      internalID: -8265328384091763336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 648
+        width: 293
+        height: 264
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111044e75ba7940d0800000000000000
+      internalID: -3438081920594607855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 648
+        width: 292
+        height: 267
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193b61443771f8650800000000000000
+      internalID: 6237229792762442641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_19
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 648
+        width: 284
+        height: 269
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5937816c38ae8a570800000000000000
+      internalID: 8478284150210065301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_22
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 648
+        width: 264
+        height: 239
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405c307c8cd98bdd0800000000000000
+      internalID: -2470050909954783996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 328
+        width: 236
+        height: 220
+      alignment: 9
+      pivot: {x: 0.53, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6717f6c8fa89680800000000000000
+      internalID: -8748049258467199293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_68
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 328
+        width: 104
+        height: 220
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0bcf5f69cfc3850800000000000000
+      internalID: 6358234499242569892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_69
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 328
+        width: 104
+        height: 220
+      alignment: 9
+      pivot: {x: 0.36, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c42f9f68a10e600800000000000000
+      internalID: 495425126032100356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_70
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 328
+        width: 88
+        height: 220
+      alignment: 9
+      pivot: {x: 0.41, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdca7be3a9a7b7d50800000000000000
+      internalID: 6736112470558485724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_85
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 8
+        width: 88
+        height: 220
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9a97dace064ea10800000000000000
+      internalID: 1937780309315135976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Attack4x_86
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 8
+        width: 128
+        height: 224
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea7dcbc49eaf6890800000000000000
+      internalID: -7462554103431988497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

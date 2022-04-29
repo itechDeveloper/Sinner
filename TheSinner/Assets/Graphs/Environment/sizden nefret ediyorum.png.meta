@@ -1,0 +1,961 @@
+fileFormatVersion: 2
+guid: bd3903abeae01db4e953dabdd36765b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5505482235366156643
+    second: sizden nefret ediyorum_0
+  - first:
+      213: 5684366072667825938
+    second: sizden nefret ediyorum_1
+  - first:
+      213: -2278015764536864674
+    second: sizden nefret ediyorum_2
+  - first:
+      213: 3175677205496349787
+    second: sizden nefret ediyorum_3
+  - first:
+      213: 8613042590444268277
+    second: sizden nefret ediyorum_4
+  - first:
+      213: -778707934107359792
+    second: sizden nefret ediyorum_5
+  - first:
+      213: -4533513742925163577
+    second: sizden nefret ediyorum_6
+  - first:
+      213: 6686604992187310094
+    second: sizden nefret ediyorum_7
+  - first:
+      213: -5321732501116489385
+    second: sizden nefret ediyorum_8
+  - first:
+      213: -3003862893289174472
+    second: sizden nefret ediyorum_9
+  - first:
+      213: 6511480957618491074
+    second: sizden nefret ediyorum_10
+  - first:
+      213: -6552914273890693345
+    second: sizden nefret ediyorum_11
+  - first:
+      213: 540152831926387002
+    second: sizden nefret ediyorum_12
+  - first:
+      213: -1817554479128502818
+    second: sizden nefret ediyorum_13
+  - first:
+      213: -1882907479286697486
+    second: sizden nefret ediyorum_14
+  - first:
+      213: -7700798224122052839
+    second: sizden nefret ediyorum_15
+  - first:
+      213: 6167627315546402276
+    second: sizden nefret ediyorum_16
+  - first:
+      213: 7574039237042170939
+    second: sizden nefret ediyorum_17
+  - first:
+      213: 8426259945820793317
+    second: sizden nefret ediyorum_18
+  - first:
+      213: 6985143465167101378
+    second: sizden nefret ediyorum_19
+  - first:
+      213: 1478348932513798659
+    second: sizden nefret ediyorum_20
+  - first:
+      213: 8154949327613889828
+    second: sizden nefret ediyorum_21
+  - first:
+      213: 4611207380381296767
+    second: sizden nefret ediyorum_22
+  - first:
+      213: -6745770414913359953
+    second: sizden nefret ediyorum_23
+  - first:
+      213: 1390434402657975680
+    second: sizden nefret ediyorum_24
+  - first:
+      213: 4340035473725514195
+    second: sizden nefret ediyorum_25
+  - first:
+      213: 25452802635349488
+    second: sizden nefret ediyorum_26
+  - first:
+      213: -5651525622746747661
+    second: sizden nefret ediyorum_27
+  - first:
+      213: -1855285489727652278
+    second: sizden nefret ediyorum_28
+  - first:
+      213: 4672819919283706420
+    second: sizden nefret ediyorum_29
+  - first:
+      213: -3532390147230040829
+    second: sizden nefret ediyorum_30
+  - first:
+      213: 7733317720236183049
+    second: sizden nefret ediyorum_31
+  - first:
+      213: 1393154743857202381
+    second: sizden nefret ediyorum_32
+  - first:
+      213: 2815382874182422432
+    second: sizden nefret ediyorum_33
+  - first:
+      213: 5129093808345352071
+    second: sizden nefret ediyorum_34
+  - first:
+      213: -8730048017903237634
+    second: sizden nefret ediyorum_35
+  - first:
+      213: 7274339885847063177
+    second: sizden nefret ediyorum_36
+  - first:
+      213: -5973463218688918698
+    second: sizden nefret ediyorum_37
+  - first:
+      213: -8806750922458674236
+    second: sizden nefret ediyorum_38
+  - first:
+      213: -6771931547653002364
+    second: sizden nefret ediyorum_39
+  - first:
+      213: -431497609814404253
+    second: sizden nefret ediyorum_40
+  - first:
+      213: 6330208399343137270
+    second: sizden nefret ediyorum_41
+  - first:
+      213: -5154940285192619795
+    second: sizden nefret ediyorum_42
+  - first:
+      213: 6034391300106357006
+    second: sizden nefret ediyorum_43
+  - first:
+      213: -7115041764369556060
+    second: sizden nefret ediyorum_44
+  - first:
+      213: -6002516534606477843
+    second: sizden nefret ediyorum_45
+  - first:
+      213: -1007440506118259554
+    second: sizden nefret ediyorum_46
+  - first:
+      213: -8104334877309126349
+    second: sizden nefret ediyorum_47
+  - first:
+      213: -8844609510138277750
+    second: sizden nefret ediyorum_48
+  - first:
+      213: -5118446345705783051
+    second: sizden nefret ediyorum_49
+  - first:
+      213: -9098367080802220921
+    second: sizden nefret ediyorum_50
+  - first:
+      213: 5929551191513488832
+    second: sizden nefret ediyorum_51
+  - first:
+      213: -5354379865781827090
+    second: sizden nefret ediyorum_52
+  - first:
+      213: -4483109716039451180
+    second: sizden nefret ediyorum_53
+  - first:
+      213: 8584464328745973176
+    second: sizden nefret ediyorum_54
+  - first:
+      213: -6519185674689948304
+    second: sizden nefret ediyorum_55
+  - first:
+      213: -4238015472618838857
+    second: sizden nefret ediyorum_56
+  - first:
+      213: 7637497991553234595
+    second: sizden nefret ediyorum_57
+  - first:
+      213: 1553044377006724045
+    second: sizden nefret ediyorum_58
+  - first:
+      213: 2278238833024959570
+    second: sizden nefret ediyorum_59
+  - first:
+      213: 5086998277171947029
+    second: sizden nefret ediyorum_60
+  - first:
+      213: -7520135419499538910
+    second: sizden nefret ediyorum_61
+  - first:
+      213: -5769271120902598851
+    second: sizden nefret ediyorum_62
+  - first:
+      213: -4568113478161680130
+    second: sizden nefret ediyorum_63
+  - first:
+      213: 6613577936353482363
+    second: sizden nefret ediyorum_64
+  - first:
+      213: -2632552698345635688
+    second: sizden nefret ediyorum_65
+  - first:
+      213: 8478692642273177375
+    second: sizden nefret ediyorum_66
+  - first:
+      213: 7860338055638556247
+    second: sizden nefret ediyorum_67
+  - first:
+      213: 6477906803232578429
+    second: sizden nefret ediyorum_68
+  - first:
+      213: 8172688661727702803
+    second: sizden nefret ediyorum_69
+  - first:
+      213: -5472261957484859660
+    second: sizden nefret ediyorum_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2328
+        width: 856
+        height: 940
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369293c7ce6676c40800000000000000
+      internalID: 5505482235366156643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_1
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2637
+        width: 740
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217e5a673dce2ee40800000000000000
+      internalID: 5684366072667825938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_2
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 2457
+        width: 320
+        height: 686
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e505a0a4bbcd260e0800000000000000
+      internalID: -2278015764536864674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_3
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 2462
+        width: 332
+        height: 686
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b544aeac795421c20800000000000000
+      internalID: 3175677205496349787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_4
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 2464
+        width: 220
+        height: 684
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faadb62a9ca78770800000000000000
+      internalID: 8613042590444268277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2460
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5a0cb72497135f0800000000000000
+      internalID: -778707934107359792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_6
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 2457
+        width: 119
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c318983549b511c0800000000000000
+      internalID: -4533513742925163577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_7
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 2460
+        width: 132
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00ada030d79bcc50800000000000000
+      internalID: 6686604992187310094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_8
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 2461
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751fc496c786526b0800000000000000
+      internalID: -5321732501116489385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_9
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2461
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a858b1d922056d0800000000000000
+      internalID: -3003862893289174472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_10
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 2394
+        width: 146
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce02908e6d6d5a50800000000000000
+      internalID: 6511480957618491074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_11
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 2394
+        width: 156
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f882dcf2f5f05a0800000000000000
+      internalID: -6552914273890693345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_12
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2394
+        width: 148
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31c46783220f7700800000000000000
+      internalID: 540152831926387002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1638
+        width: 94
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd10afb4dfb6c6e0800000000000000
+      internalID: -1817554479128502818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1636
+        width: 116
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1b038af919ed5e0800000000000000
+      internalID: -1882907479286697486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1636
+        width: 355
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ffe34d0d4412590800000000000000
+      internalID: -7700798224122052839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_16
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1640
+        width: 295
+        height: 584
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eda322bd50d79550800000000000000
+      internalID: 6167627315546402276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_17
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1640
+        width: 293
+        height: 585
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ce4ce9e846c1960800000000000000
+      internalID: 7574039237042170939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_18
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1640
+        width: 293
+        height: 585
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e920c7c6c610f470800000000000000
+      internalID: 8426259945820793317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_19
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1305
+        width: 95
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd1d6209f630f060800000000000000
+      internalID: 6985143465167101378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1508
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd3e9b603d6a5000800000000000000
+      internalID: 25452802635349488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_27
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1416
+        width: 286
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc6921a36fb191b0800000000000000
+      internalID: -5651525622746747661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_34
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1508
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7878412c4a33e2740800000000000000
+      internalID: 5129093808345352071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_40
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1424
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3631595c533030af0800000000000000
+      internalID: -431497609814404253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_41
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1424
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1ba05100b69d750800000000000000
+      internalID: 6330208399343137270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_42
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1424
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de83eb66f19f578b0800000000000000
+      internalID: -5154940285192619795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 308
+        width: 756
+        height: 892
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f642e79093b6170800000000000000
+      internalID: 8172688661727702803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_70
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 332
+        width: 176
+        height: 719
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe2b323ebe9e04b0800000000000000
+      internalID: -5472261957484859660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_20
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1414
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a10908586248410800000000000000
+      internalID: 1478348932513798659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sizden nefret ediyorum_21
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 2862
+        width: 176
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d8cb9e4333c2170800000000000000
+      internalID: 8154949327613889828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

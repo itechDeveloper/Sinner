@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 86c51d9fb5b50a647ae7b025ed1b1ce3
+  - enabled: 1
+    path: Assets/Scenes/Market.unity
+    guid: c049664e33559454db709f5a7b27838e
+  - enabled: 1
+    path: Assets/Scenes/Level1/B1-C1.unity
+    guid: 8857508d15d99464b932221c98fd597b
+  - enabled: 1
+    path: Assets/Scenes/Level1/B1-C2.unity
+    guid: d1efeb03052a6bb42bd601850fe0ea9b
+  - enabled: 1
+    path: Assets/Scenes/Level1/B1-C3.unity
+    guid: 5d07412d8164eca4a82b8c348a55d22f
+  - enabled: 1
+    path: Assets/Scenes/Level1/B1-C4.unity
+    guid: 2e647942d36fd4b41bd318cfa56a818b
+  - enabled: 1
+    path: Assets/Scenes/Level1/VillegaDefense.unity
+    guid: 9b58532588e71a4458d02ebcef76d4db
+  - enabled: 1
+    path: Assets/Scenes/Level1/RedHoodHouse.unity
+    guid: 15bade65a3b51e144bf5cd0481c8bca2
+  - enabled: 1
+    path: Assets/Scenes/Level1/B1-C5.unity
+    guid: c018dd5625a3e384e9d1d57cc96ff5c7
+  - enabled: 1
+    path: Assets/Scenes/Level1/B1-Boss.unity
+    guid: f884ef1dbc0bdcf4ea8ef07b59bf2a1b
+  - enabled: 1
+    path: Assets/Scenes/Level2/b2-c1.unity
+    guid: 6b5a0bf2643b2ff4ea7311e7c8fe78bd
+  - enabled: 1
+    path: Assets/Scenes/Level2/b2-c2.unity
+    guid: 7d1e34234c8476a42b78df1d3b5b9c4f
+  - enabled: 1
+    path: Assets/Scenes/Level2/B2-BOSS.unity
+    guid: 8b9e5cb0cb315ec42b8b61a2d56acec2
+  - enabled: 1
+    path: Assets/Scenes/Level3/B3-C1.unity
+    guid: a513cede86a80374e87417a9dd08199f
+  - enabled: 1
+    path: Assets/Scenes/Level3/B3-C2.unity
+    guid: 63ac37f96db934d4ab67cf685aafec4e
+  - enabled: 1
+    path: Assets/Scenes/Level3/B3-Boss.unity
+    guid: b30c56c745a9502458aaaef695dc9129
+  - enabled: 1
+    path: Assets/Scenes/Level4/B4-C1.unity
+    guid: b0436c763a7d80644bfc98372ef3bfa5
+  - enabled: 1
+    path: Assets/Scenes/Level4/B4-C2.unity
+    guid: 61eaec4bbd6397f428cad53b431af75d
+  - enabled: 1
+    path: Assets/Scenes/Level4/B4-Boss.unity
+    guid: 3669ad5b7d0915749bd212b294a09162
+  - enabled: 1
+    path: Assets/Scenes/FinalScene.unity
+    guid: da20ebd05bcdeae419693c17a32c1d06
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/Tutorial.unity
+    guid: 4555b7e2805a1d445831b24edf51b310
+  m_configObjects: {}

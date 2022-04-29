@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &622556158874149865
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1559274411708863843, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 4656360341010673421, guid: 98fa46b7510978f459b80df543549264, type: 3}
+    - target: {fileID: 2054145987332384927, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: level
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2054145987332384927, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 8126688894080142205, guid: 6e106bb7ca5c3bf46949139df0589de0, type: 3}
+    - target: {fileID: 2054145987332384927, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: whichStone
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 2370159408044640023, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_Name
+      value: UseddokuzuncuitemBtn Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4340721797918602475, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8982905275985581131, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}
+      propertyPath: m_Text
+      value: "-\xC7\u0130FTE HASAR SV2-\ninan\u0131rsan \u015Fansa ihtiyac\u0131n
+        yok"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 32c61406bf1b72e46b3613af4424fed2, type: 3}

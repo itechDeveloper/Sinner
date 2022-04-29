@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: f23519c5857ea5e4ea1300bc5f6a7b63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3841117734988337661
+    second: PlashAll_0
+  - first:
+      213: 1284828953525271826
+    second: PlashAll_1
+  - first:
+      213: 4075772014657363044
+    second: PlashAll_2
+  - first:
+      213: 3074801595858765160
+    second: PlashAll_3
+  - first:
+      213: 1587095282767955145
+    second: PlashAll_4
+  - first:
+      213: 8504626557952924264
+    second: PlashAll_5
+  - first:
+      213: 4602738532640106013
+    second: PlashAll_6
+  - first:
+      213: 6819590349452821392
+    second: PlashAll_7
+  - first:
+      213: -3629013425079604888
+    second: PlashAll_8
+  - first:
+      213: 8505080968722351969
+    second: PlashAll_9
+  - first:
+      213: 8666046139817385420
+    second: PlashAll_0
+  - first:
+      213: -8322381062981195318
+    second: PlashAll_1
+  - first:
+      213: -3372911234115124573
+    second: PlashAll_2
+  - first:
+      213: -2803485408086952931
+    second: PlashAll_3
+  - first:
+      213: 3342293915151755478
+    second: PlashAll_4
+  - first:
+      213: 3778866792278110729
+    second: PlashAll_5
+  - first:
+      213: 5518710496137429298
+    second: PlashAll_6
+  - first:
+      213: -8372575557343052327
+    second: PlashAll_7
+  - first:
+      213: -211738270956594170
+    second: PlashAll_8
+  - first:
+      213: 8145010370641913869
+    second: PlashAll_9
+  - first:
+      213: -7472529604518186648
+    second: PlashAll_10
+  - first:
+      213: 3469321841925932512
+    second: PlashAll_11
+  - first:
+      213: -2950779594059868854
+    second: PlashAll_12
+  - first:
+      213: -9214051055651406239
+    second: PlashAll_13
+  - first:
+      213: -297015841122494314
+    second: PlashAll_14
+  - first:
+      213: 4654822861749349079
+    second: PlashAll_15
+  - first:
+      213: -2251084777876213718
+    second: PlashAll_16
+  - first:
+      213: 133450786049506007
+    second: PlashAll_17
+  - first:
+      213: -7541814633580778996
+    second: PlashAll_18
+  - first:
+      213: -8447875130861298280
+    second: PlashAll_19
+  - first:
+      213: 5751201352762404647
+    second: PlashAll_20
+  - first:
+      213: 1022098357863022142
+    second: PlashAll_21
+  - first:
+      213: -8509799837958741443
+    second: PlashAll_22
+  - first:
+      213: 2659343628210825225
+    second: PlashAll_23
+  - first:
+      213: -4908115212957698152
+    second: PlashAll_24
+  - first:
+      213: -6245238425228887757
+    second: PlashAll_25
+  - first:
+      213: -854122366791248457
+    second: PlashAll_26
+  - first:
+      213: 111000123698792144
+    second: PlashAll_27
+  - first:
+      213: 6476982204979559618
+    second: PlashAll_28
+  - first:
+      213: 1561796464863003115
+    second: PlashAll_29
+  - first:
+      213: 6503026421097551798
+    second: PlashAll_30
+  - first:
+      213: -3786665097425433121
+    second: PlashAll_31
+  - first:
+      213: -4494914693797647096
+    second: PlashAll_32
+  - first:
+      213: -6726596055028750894
+    second: PlashAll_33
+  - first:
+      213: -1913458080072065937
+    second: PlashAll_34
+  - first:
+      213: 7157056300850443407
+    second: PlashAll_35
+  - first:
+      213: -8960132415383700746
+    second: PlashAll_36
+  - first:
+      213: -5858496841519805693
+    second: PlashAll_37
+  - first:
+      213: -7605107838803128100
+    second: PlashAll_38
+  - first:
+      213: 2824881001797145264
+    second: PlashAll_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlashAll_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdd5faac0bf34870800000000000000
+      internalID: 8666046139817385420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlashAll_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9619f5486f08c80800000000000000
+      internalID: -8322381062981195318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlashAll_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2c4af5a130131d0800000000000000
+      internalID: -3372911234115124573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlashAll_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d147cf5ffd40819d0800000000000000
+      internalID: -2803485408086952931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlashAll_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8e19b8b96326e20800000000000000
+      internalID: 3342293915151755478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlashAll_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902b147835b317430800000000000000
+      internalID: 3778866792278110729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlashAll_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231cd74f4f5669c40800000000000000
+      internalID: 5518710496137429298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlashAll_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddf271f3e2aecb80800000000000000
+      internalID: -8372575557343052327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlashAll_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cd6461a21cf0df0800000000000000
+      internalID: -211738270956594170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlashAll_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08ebf927c3e80170800000000000000
+      internalID: 8145010370641913869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

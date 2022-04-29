@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 46a9eff5977999f40bbd2267bf77dbdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1194498571513547456
+    second: "mezarl\u0131k not over the garden wall_0"
+  - first:
+      213: -3286684751728048542
+    second: "mezarl\u0131k not over the garden wall_1"
+  - first:
+      213: -8505670635663159013
+    second: "mezarl\u0131k not over the garden wall_2"
+  - first:
+      213: -3143608920759667364
+    second: "mezarl\u0131k not over the garden wall_3"
+  - first:
+      213: -3758599543964084165
+    second: "mezarl\u0131k not over the garden wall_4"
+  - first:
+      213: -8182097300515837145
+    second: "mezarl\u0131k not over the garden wall_5"
+  - first:
+      213: 5849743236624833240
+    second: "mezarl\u0131k not over the garden wall_6"
+  - first:
+      213: 2356355239350188429
+    second: "mezarl\u0131k not over the garden wall_7"
+  - first:
+      213: -7030692819060869301
+    second: "mezarl\u0131k not over the garden wall_8"
+  - first:
+      213: 7963086531235849728
+    second: "mezarl\u0131k not over the garden wall_9"
+  - first:
+      213: -3667339196135807364
+    second: "mezarl\u0131k not over the garden wall_10"
+  - first:
+      213: -3155656371391643207
+    second: "mezarl\u0131k not over the garden wall_11"
+  - first:
+      213: 5645507018595517428
+    second: "mezarl\u0131k not over the garden wall_12"
+  - first:
+      213: 3464107374830175820
+    second: "mezarl\u0131k not over the garden wall_13"
+  - first:
+      213: 6853387257480912963
+    second: "mezarl\u0131k not over the garden wall_14"
+  - first:
+      213: 4524118048305967665
+    second: "mezarl\u0131k not over the garden wall_15"
+  - first:
+      213: -124480247124490006
+    second: "mezarl\u0131k not over the garden wall_16"
+  - first:
+      213: 2684053565612785724
+    second: "mezarl\u0131k not over the garden wall_17"
+  - first:
+      213: -4628636597917666797
+    second: "mezarl\u0131k not over the garden wall_18"
+  - first:
+      213: -8881140320935116939
+    second: "mezarl\u0131k not over the garden wall_19"
+  - first:
+      213: -7610124870322573928
+    second: "mezarl\u0131k not over the garden wall_20"
+  - first:
+      213: -766976308857291035
+    second: "mezarl\u0131k not over the garden wall_21"
+  - first:
+      213: -5507952828687711704
+    second: "mezarl\u0131k not over the garden wall_22"
+  - first:
+      213: 3451938333919658462
+    second: "mezarl\u0131k not over the garden wall_23"
+  - first:
+      213: -2291653260670608597
+    second: "mezarl\u0131k not over the garden wall_24"
+  - first:
+      213: -1197660127699751138
+    second: "mezarl\u0131k not over the garden wall_25"
+  - first:
+      213: 545393125932046390
+    second: "mezarl\u0131k not over the garden wall_26"
+  - first:
+      213: -8078639073354817273
+    second: "mezarl\u0131k not over the garden wall_27"
+  - first:
+      213: 2776038988032736150
+    second: "mezarl\u0131k not over the garden wall_28"
+  - first:
+      213: -361299453022474121
+    second: "mezarl\u0131k not over the garden wall_29"
+  - first:
+      213: 5627811141565379665
+    second: "mezarl\u0131k not over the garden wall_30"
+  - first:
+      213: 4613507736920557841
+    second: "mezarl\u0131k not over the garden wall_31"
+  - first:
+      213: 5407017993340535149
+    second: "mezarl\u0131k not over the garden wall_32"
+  - first:
+      213: -8956850417380951229
+    second: "mezarl\u0131k not over the garden wall_33"
+  - first:
+      213: -1580131705374755764
+    second: "mezarl\u0131k not over the garden wall_34"
+  - first:
+      213: 146402886826752534
+    second: "mezarl\u0131k not over the garden wall_35"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "mezarl\u0131k not over the garden wall_0"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 72
+        width: 390
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cac6cf3f16b39010800000000000000
+      internalID: 1194498571513547456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mezarl\u0131k not over the garden wall_1"
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 332
+        width: 630
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2668e84c1a95362d0800000000000000
+      internalID: -3286684751728048542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mezarl\u0131k not over the garden wall_25"
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 196
+        width: 249
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1faec6957e016fe0800000000000000
+      internalID: -1197660127699751138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mezarl\u0131k not over the garden wall_27"
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 100
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7016814b098e2ef80800000000000000
+      internalID: -8078639073354817273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mezarl\u0131k not over the garden wall_28"
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 68
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b735460c8768620800000000000000
+      internalID: 2776038988032736150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mezarl\u0131k not over the garden wall_29"
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 49
+        width: 631
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7707d0dcf086cfaf0800000000000000
+      internalID: -361299453022474121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mezarl\u0131k not over the garden wall_30"
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 60
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1547df37a600a1e40800000000000000
+      internalID: 5627811141565379665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mezarl\u0131k not over the garden wall_31"
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 80
+        width: 171
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1198aa3e7d8760040800000000000000
+      internalID: 4613507736920557841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mezarl\u0131k not over the garden wall_32"
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 68
+        width: 87
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d614533a736990b40800000000000000
+      internalID: 5407017993340535149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mezarl\u0131k not over the garden wall_33"
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 70
+        width: 80
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bf2b53000e2b380800000000000000
+      internalID: -8956850417380951229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mezarl\u0131k not over the garden wall_34"
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 73
+        width: 80
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c443ecaf59e321ae0800000000000000
+      internalID: -1580131705374755764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mezarl\u0131k not over the garden wall_35"
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 32
+        width: 172
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a766f56a0280200800000000000000
+      internalID: 146402886826752534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

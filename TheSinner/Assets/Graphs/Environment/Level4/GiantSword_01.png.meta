@@ -1,0 +1,1258 @@
+fileFormatVersion: 2
+guid: 55ba9e5ab083b6a4d9f19007361d4364
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1487550135770473129
+    second: GiantSword_01_0
+  - first:
+      213: 4196186115980966265
+    second: GiantSword_01_1
+  - first:
+      213: -5267300025101947743
+    second: GiantSword_01_2
+  - first:
+      213: -7651528405981241596
+    second: GiantSword_01_3
+  - first:
+      213: -6971953052026154782
+    second: GiantSword_01_4
+  - first:
+      213: -1339339595655329408
+    second: GiantSword_01_5
+  - first:
+      213: -4472792990443800705
+    second: GiantSword_01_6
+  - first:
+      213: 5933024772058833155
+    second: GiantSword_01_7
+  - first:
+      213: -6666478146746942833
+    second: GiantSword_01_8
+  - first:
+      213: 6609336319577252850
+    second: GiantSword_01_9
+  - first:
+      213: -4210872773687889503
+    second: GiantSword_01_10
+  - first:
+      213: -1044848225685187495
+    second: GiantSword_01_11
+  - first:
+      213: -8921229460575311050
+    second: GiantSword_01_12
+  - first:
+      213: 3654504471990137411
+    second: GiantSword_01_13
+  - first:
+      213: 2860559143872875750
+    second: GiantSword_01_14
+  - first:
+      213: -2945594733207547238
+    second: GiantSword_01_15
+  - first:
+      213: -8776092847494821174
+    second: GiantSword_01_16
+  - first:
+      213: 7479919589694017001
+    second: GiantSword_01_17
+  - first:
+      213: -1488834297405308503
+    second: GiantSword_01_18
+  - first:
+      213: -7373914232274231065
+    second: GiantSword_01_19
+  - first:
+      213: 1911793172049398685
+    second: GiantSword_01_20
+  - first:
+      213: 7318724671517127761
+    second: GiantSword_01_21
+  - first:
+      213: -8321694042792630617
+    second: GiantSword_01_22
+  - first:
+      213: 8216775265871417811
+    second: GiantSword_01_23
+  - first:
+      213: 3472258322515811707
+    second: GiantSword_01_24
+  - first:
+      213: 4673300321433438982
+    second: GiantSword_01_25
+  - first:
+      213: 5625154822622902462
+    second: GiantSword_01_26
+  - first:
+      213: -4875386504774823858
+    second: GiantSword_01_27
+  - first:
+      213: -644084288390533192
+    second: GiantSword_01_28
+  - first:
+      213: 2667821017869010347
+    second: GiantSword_01_29
+  - first:
+      213: -3455263498192926974
+    second: GiantSword_01_30
+  - first:
+      213: -2118136738531529213
+    second: GiantSword_01_31
+  - first:
+      213: 2502921492407757997
+    second: GiantSword_01_32
+  - first:
+      213: 2496246459323688441
+    second: GiantSword_01_33
+  - first:
+      213: -2181114328463532185
+    second: GiantSword_01_34
+  - first:
+      213: 224367908606652372
+    second: GiantSword_01_35
+  - first:
+      213: -8646368441027369108
+    second: GiantSword_01_36
+  - first:
+      213: -6180307016943701890
+    second: GiantSword_01_37
+  - first:
+      213: -6025986454571114633
+    second: GiantSword_01_38
+  - first:
+      213: -2556607961434503534
+    second: GiantSword_01_39
+  - first:
+      213: -4294284199579881174
+    second: GiantSword_01_40
+  - first:
+      213: 6882461998719205209
+    second: GiantSword_01_41
+  - first:
+      213: -8558097189136500469
+    second: GiantSword_01_42
+  - first:
+      213: 7509138147026740381
+    second: GiantSword_01_43
+  - first:
+      213: -8123918602469904578
+    second: GiantSword_01_44
+  - first:
+      213: -2233891929393512622
+    second: GiantSword_01_45
+  - first:
+      213: -2090733517797991044
+    second: GiantSword_01_46
+  - first:
+      213: -1319757186700098396
+    second: GiantSword_01_47
+  - first:
+      213: -4223725811245991810
+    second: GiantSword_01_48
+  - first:
+      213: 5802771022654308530
+    second: GiantSword_01_49
+  - first:
+      213: 5744604248311604606
+    second: GiantSword_01_50
+  - first:
+      213: -191169039596154054
+    second: GiantSword_01_51
+  - first:
+      213: -643216788653468352
+    second: GiantSword_01_52
+  - first:
+      213: 8063838983379230373
+    second: GiantSword_01_53
+  - first:
+      213: -5186054329869040765
+    second: GiantSword_01_54
+  - first:
+      213: -8158607191683016097
+    second: GiantSword_01_55
+  - first:
+      213: 1854127204360697779
+    second: GiantSword_01_56
+  - first:
+      213: 6984996851077247269
+    second: GiantSword_01_57
+  - first:
+      213: -9128600960177691092
+    second: GiantSword_01_58
+  - first:
+      213: 4493711762490032274
+    second: GiantSword_01_59
+  - first:
+      213: 7744335958625272847
+    second: GiantSword_01_60
+  - first:
+      213: 8777639601260933256
+    second: GiantSword_01_61
+  - first:
+      213: 1371241569622239325
+    second: GiantSword_01_62
+  - first:
+      213: 1978790310897008894
+    second: GiantSword_01_63
+  - first:
+      213: 7197497512207154408
+    second: GiantSword_01_64
+  - first:
+      213: -7321422693725582038
+    second: GiantSword_01_65
+  - first:
+      213: -1903368317982248796
+    second: GiantSword_01_66
+  - first:
+      213: -1974938894773763582
+    second: GiantSword_01_67
+  - first:
+      213: -8059650853348891833
+    second: GiantSword_01_68
+  - first:
+      213: 5607669818411667112
+    second: GiantSword_01_69
+  - first:
+      213: 1391943476049587999
+    second: GiantSword_01_70
+  - first:
+      213: -2738503107429373519
+    second: GiantSword_01_71
+  - first:
+      213: -6180861541483918755
+    second: GiantSword_01_72
+  - first:
+      213: 8589465523872958310
+    second: GiantSword_01_73
+  - first:
+      213: 4398055400452263162
+    second: GiantSword_01_74
+  - first:
+      213: 8207907330991195322
+    second: GiantSword_01_75
+  - first:
+      213: -4105358180159011415
+    second: GiantSword_01_76
+  - first:
+      213: -2047035965326449840
+    second: GiantSword_01_77
+  - first:
+      213: 5040286454962844742
+    second: GiantSword_01_78
+  - first:
+      213: -4670596553777340575
+    second: GiantSword_01_79
+  - first:
+      213: 7835842439465961123
+    second: GiantSword_01_80
+  - first:
+      213: 3223690282240687400
+    second: GiantSword_01_81
+  - first:
+      213: 5966519263590529492
+    second: GiantSword_01_82
+  - first:
+      213: 127171313363763663
+    second: GiantSword_01_83
+  - first:
+      213: -8123727058212062410
+    second: GiantSword_01_84
+  - first:
+      213: 3426203920485609829
+    second: GiantSword_01_85
+  - first:
+      213: 7103275060884083074
+    second: GiantSword_01_86
+  - first:
+      213: 1321253331796422227
+    second: GiantSword_01_87
+  - first:
+      213: 5948971675035638710
+    second: GiantSword_01_88
+  - first:
+      213: 8705265719573174595
+    second: GiantSword_01_89
+  - first:
+      213: -8775241562942479547
+    second: GiantSword_01_90
+  - first:
+      213: -8272246294759614836
+    second: GiantSword_01_91
+  - first:
+      213: -6612689560363833866
+    second: GiantSword_01_92
+  - first:
+      213: 5668010584622542754
+    second: GiantSword_01_93
+  - first:
+      213: 4206097712772921696
+    second: GiantSword_01_94
+  - first:
+      213: 4090361203872185779
+    second: GiantSword_01_95
+  - first:
+      213: -304053116600627584
+    second: GiantSword_01_96
+  - first:
+      213: 8287300235099258953
+    second: GiantSword_01_97
+  - first:
+      213: -5335048705874071961
+    second: GiantSword_01_98
+  - first:
+      213: 2460947711872743491
+    second: GiantSword_01_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GiantSword_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2ee2497f6d4a410800000000000000
+      internalID: 1487550135770473129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2240
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979b8764a09db3a30800000000000000
+      internalID: 4196186115980966265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2240
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac6466d88ac6e6b0800000000000000
+      internalID: -5267300025101947743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_3
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2240
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5dac447f40d590800000000000000
+      internalID: -7651528405981241596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_4
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2240
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0d74f53a5ae3f90800000000000000
+      internalID: -6971953052026154782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_5
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2240
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089495fdbb5b96de0800000000000000
+      internalID: -1339339595655329408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_6
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2240
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f777dba19727de1c0800000000000000
+      internalID: -4472792990443800705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_7
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2240
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301e82e7896565250800000000000000
+      internalID: 5933024772058833155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a7e303279eb73a0800000000000000
+      internalID: -6666478146746942833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1680
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f36d796d5419bb50800000000000000
+      internalID: 6609336319577252850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_10
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1680
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a138f1c589ff85c0800000000000000
+      internalID: -4210872773687889503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_11
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1680
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95456d71314ff71f0800000000000000
+      internalID: -1044848225685187495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_12
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1680
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ba8a2821d613480800000000000000
+      internalID: -8921229460575311050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_13
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1680
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3427c03747867b230800000000000000
+      internalID: 3654504471990137411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_14
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1680
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecc98da26fb2b720800000000000000
+      internalID: 2860559143872875750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_15
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1680
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9217e252352f17d0800000000000000
+      internalID: -2945594733207547238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca893d8d0e053680800000000000000
+      internalID: -8776092847494821174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1120
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed823c8c330ec760800000000000000
+      internalID: 7479919589694017001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1120
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a10dbd3819965be0800000000000000
+      internalID: -1488834297405308503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_19
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1120
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0e81d03189aa990800000000000000
+      internalID: -7373914232274231065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_20
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1120
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b8508c2cd088a10800000000000000
+      internalID: 1911793172049398685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_21
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1120
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1547aaeff45519560800000000000000
+      internalID: 7318724671517127761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_22
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1120
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a66cd9bb57638c80800000000000000
+      internalID: -8321694042792630617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_23
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1120
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d15b79e199d70270800000000000000
+      internalID: 8216775265871417811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd2f92c80ff2030800000000000000
+      internalID: 3472258322515811707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 560
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b42c3d1e5ead040800000000000000
+      internalID: 4673300321433438982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 560
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb873010280901e40800000000000000
+      internalID: 5625154822622902462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_27
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 560
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40d9280ec5275cb0800000000000000
+      internalID: -4875386504774823858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_28
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 560
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf621190c0cf07f0800000000000000
+      internalID: -644084288390533192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_29
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 560
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5476eb411060520800000000000000
+      internalID: 2667821017869010347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_30
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 560
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20746d8b7207c00d0800000000000000
+      internalID: -3455263498192926974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_31
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 560
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eaf12dbddda92e0800000000000000
+      internalID: -2118136738531529213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daca7a716d92cb220800000000000000
+      internalID: 2502921492407757997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5a0d7dde274a220800000000000000
+      internalID: 2496246459323688441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_34
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f9a6503102bb1e0800000000000000
+      internalID: -2181114328463532185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_35
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df2f739c6d1d1300800000000000000
+      internalID: 224367908606652372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_36
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c676a6b96bde10880800000000000000
+      internalID: -8646368441027369108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_37
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70773443832b3aa0800000000000000
+      internalID: -6180307016943701890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_38
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f19f12f356f5ca0800000000000000
+      internalID: -6025986454571114633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantSword_01_39
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 0
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296c2c4ca9a158cd0800000000000000
+      internalID: -2556607961434503534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

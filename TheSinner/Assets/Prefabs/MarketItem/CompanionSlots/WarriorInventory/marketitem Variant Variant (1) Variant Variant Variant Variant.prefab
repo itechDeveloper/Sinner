@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8986993179624544656
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 378136448390399333, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: caf6fb2d25f6e144c9028920b4733eb0, type: 2}
+    - target: {fileID: 3600407795907536351, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_Text
+      value: "-sava\u015F\xE7\u0131-\nteker teker gelin\n500g"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600407796669594050, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600407796769696872, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.748743
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600407796769696872, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6564672
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600407796769696872, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600407796769696872, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600407796769696872, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600407796769696872, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600407796769696872, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600407796769696872, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600407796769696872, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600407796769696872, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600407796769696872, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600407796769696873, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1360789459783529566, guid: bebbe6e68e8dc0e4b965604814ba770f, type: 3}
+    - target: {fileID: 3600407796769696877, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: m_Name
+      value: marketitem Variant Variant (1) Variant Variant Variant Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3845355689385284458, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: itemButton
+      value: 
+      objectReference: {fileID: 8814489532541312733, guid: aaaca5790d7f1fa40bbce97c8fade472, type: 3}
+    - target: {fileID: 3845355689385284458, guid: 25838c8ea8936424387286bb9f89699c, type: 3}
+      propertyPath: whichCompanion
+      value: 5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 25838c8ea8936424387286bb9f89699c, type: 3}

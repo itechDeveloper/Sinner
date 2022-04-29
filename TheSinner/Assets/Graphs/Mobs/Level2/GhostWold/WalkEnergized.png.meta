@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 30cf304fb75e1a1449ba98ee515c9cb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7529070374244298064
+    second: WalkEnergized_0
+  - first:
+      213: -4732643428680082438
+    second: WalkEnergized_1
+  - first:
+      213: 7053320102731839502
+    second: WalkEnergized_2
+  - first:
+      213: -819727641733809889
+    second: WalkEnergized_3
+  - first:
+      213: -4218350061997687234
+    second: WalkEnergized_4
+  - first:
+      213: -5970929604758231488
+    second: WalkEnergized_5
+  - first:
+      213: -6975145753847678362
+    second: WalkEnergized_6
+  - first:
+      213: -4210534127777657952
+    second: WalkEnergized_7
+  - first:
+      213: -6374536601314677590
+    second: WalkEnergized_8
+  - first:
+      213: -7768175411816292925
+    second: WalkEnergized_9
+  - first:
+      213: 3703240668945729417
+    second: WalkEnergized_10
+  - first:
+      213: 743066618553416957
+    second: WalkEnergized_11
+  - first:
+      213: -6517408658999109048
+    second: WalkEnergized_12
+  - first:
+      213: 4899542366287858421
+    second: WalkEnergized_13
+  - first:
+      213: -8403055359635231099
+    second: WalkEnergized_14
+  - first:
+      213: -4641648746844343939
+    second: WalkEnergized_15
+  - first:
+      213: -1689243022490516638
+    second: WalkEnergized_16
+  - first:
+      213: 8791607313726115198
+    second: WalkEnergized_17
+  - first:
+      213: -9062229368635218899
+    second: WalkEnergized_18
+  - first:
+      213: -31733768146959684
+    second: WalkEnergized_19
+  - first:
+      213: 452743969786606317
+    second: WalkEnergized_0
+  - first:
+      213: -280243356420615224
+    second: WalkEnergized_1
+  - first:
+      213: -6564834142839709733
+    second: WalkEnergized_2
+  - first:
+      213: -1434711096043751271
+    second: WalkEnergized_8
+  - first:
+      213: 8935261223946895325
+    second: WalkEnergized_9
+  - first:
+      213: -1015161921043388847
+    second: WalkEnergized_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkEnergized_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 352
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2b455ed38784600800000000000000
+      internalID: 452743969786606317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkEnergized_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 720
+        width: 352
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3d2e1f6206c1cf0800000000000000
+      internalID: -280243356420615224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkEnergized_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 720
+        width: 352
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfdeaa012605e4a0800000000000000
+      internalID: -6564834142839709733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkEnergized_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 352
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1933ed8d0ebf94f0800000000000000
+      internalID: -819727641733809889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkEnergized_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 352
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e7168e7f86575c0800000000000000
+      internalID: -4218350061997687234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkEnergized_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 480
+        width: 352
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046a589e82ff22da0800000000000000
+      internalID: -5970929604758231488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkEnergized_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 352
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ab55d84ed433f90800000000000000
+      internalID: -6975145753847678362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkEnergized_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 240
+        width: 352
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab4727e48d2195c0800000000000000
+      internalID: -4210534127777657952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkEnergized_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 240
+        width: 352
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998300d0cd1e61ce0800000000000000
+      internalID: -1434711096043751271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkEnergized_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 352
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf3dacfdbc600c70800000000000000
+      internalID: 8935261223946895325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

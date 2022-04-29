@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 1199c9a2a7449f144a9243b4fca49201
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8057985953350507304
+    second: ne diyebilirsin ki_0
+  - first:
+      213: 8937594859564523612
+    second: ne diyebilirsin ki_1
+  - first:
+      213: -7115860611835093512
+    second: ne diyebilirsin ki_2
+  - first:
+      213: 7493956653719917394
+    second: ne diyebilirsin ki_3
+  - first:
+      213: 5184273288050769940
+    second: ne diyebilirsin ki_4
+  - first:
+      213: 6185384130273185970
+    second: ne diyebilirsin ki_5
+  - first:
+      213: 2525638858700628024
+    second: ne diyebilirsin ki_6
+  - first:
+      213: -660849647334076294
+    second: ne diyebilirsin ki_7
+  - first:
+      213: 4610594499019584558
+    second: ne diyebilirsin ki_8
+  - first:
+      213: -368070716797029111
+    second: ne diyebilirsin ki_9
+  - first:
+      213: 7345566098124932210
+    second: ne diyebilirsin ki_10
+  - first:
+      213: -4187550332322720847
+    second: ne diyebilirsin ki_11
+  - first:
+      213: -7198395266727719113
+    second: ne diyebilirsin ki_12
+  - first:
+      213: -8110451164232660722
+    second: ne diyebilirsin ki_13
+  - first:
+      213: 5890035312231249720
+    second: ne diyebilirsin ki_14
+  - first:
+      213: -5913545954932007253
+    second: ne diyebilirsin ki_15
+  - first:
+      213: -3413831542306613816
+    second: ne diyebilirsin ki_16
+  - first:
+      213: -6628130049030882296
+    second: ne diyebilirsin ki_17
+  - first:
+      213: 1730552999500210124
+    second: ne diyebilirsin ki_18
+  - first:
+      213: 4617635832095914999
+    second: ne diyebilirsin ki_19
+  - first:
+      213: -5392306834107555689
+    second: ne diyebilirsin ki_20
+  - first:
+      213: -5834527486161889189
+    second: ne diyebilirsin ki_21
+  - first:
+      213: -7742010468586601598
+    second: ne diyebilirsin ki_22
+  - first:
+      213: 6717456477202998927
+    second: ne diyebilirsin ki_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ne diyebilirsin ki_0
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1712
+        width: 1103
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4a47de7784c2090800000000000000
+      internalID: -8057985953350507304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ne diyebilirsin ki_1
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1624
+        width: 877
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5063bedb27b80c70800000000000000
+      internalID: 8937594859564523612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ne diyebilirsin ki_8
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1392
+        width: 868
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24be65d44f1cff30800000000000000
+      internalID: 4610594499019584558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ne diyebilirsin ki_18
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1228
+        width: 188
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf5230c8c8240810800000000000000
+      internalID: 1730552999500210124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ne diyebilirsin ki_19
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1148
+        width: 436
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb3132f253251040800000000000000
+      internalID: 4617635832095914999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ne diyebilirsin ki_20
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 608
+        width: 833
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790ab19018daa25b0800000000000000
+      internalID: -5392306834107555689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ne diyebilirsin ki_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1130
+        width: 281
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58511bf928970fa0800000000000000
+      internalID: -5834527486161889189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ne diyebilirsin ki_22
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1005
+        width: 342
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2834a8c6f7ade8490800000000000000
+      internalID: -7742010468586601598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ne diyebilirsin ki_23
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 134
+        width: 836
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86e4dd4313393d50800000000000000
+      internalID: 6717456477202998927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

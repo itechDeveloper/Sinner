@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &252922536171479940
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8476044133826720108, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: cost
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476044134060563548, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: m_Text
+      value: "-can hasat\u0131 SV2-\nya\u015Famak i\xE7in \xF6ld\xFCr\n500g"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476044134269457898, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -3180220353139045487, guid: 98fa46b7510978f459b80df543549264, type: 3}
+    - target: {fileID: 8476044134269457899, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -20.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476044134269457899, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476044134269457899, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476044134269457899, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476044134269457899, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476044134269457899, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476044134269457899, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476044134269457899, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476044134269457899, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476044134269457899, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476044134269457899, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476044134269457902, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: m_Name
+      value: MarketItem
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476044134269457903, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: whichStone
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8476044134269457903, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}
+      propertyPath: itemButton
+      value: 
+      objectReference: {fileID: 441291945347386950, guid: 2961c9ffd498edc42a3d16d7a873d600, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5c3e2f96b614c114e9ffbf5326356f77, type: 3}

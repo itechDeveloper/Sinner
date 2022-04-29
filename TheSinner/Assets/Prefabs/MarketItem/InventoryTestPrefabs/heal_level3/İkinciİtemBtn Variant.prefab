@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &848259232998706030
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -6874989799587558114, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: itemButton
+      value: 
+      objectReference: {fileID: 4223784299578540991, guid: de27c452b2214d547b2fc0ca37f31a1d, type: 3}
+    - target: {fileID: 1435372753960471630, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_Text
+      value: "-can hasat\u0131 sv3-\nya\u015Famak i\xE7in \xF6ld\xFCr"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1445266250829231746, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1445266250829231746, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 118
+      objectReference: {fileID: 0}
+    - target: {fileID: 1853895641545234279, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_Name
+      value: "\u0130kinci\u0130temBtn Variant"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1948454950496351213, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -8561867772653663074, guid: 98fa46b7510978f459b80df543549264, type: 3}
+    - target: {fileID: 3739836656370231487, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: cost
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 3957104518070735488, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4459197668242576238, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473929985827127256, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: level
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4473929985827127256, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1332998437891185673, guid: 5d3591795c37084468309a7ca2f9008b, type: 3}
+    - target: {fileID: 4473929985827127256, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: itemButton
+      value: 
+      objectReference: {fileID: 4223784299578540991, guid: de27c452b2214d547b2fc0ca37f31a1d, type: 3}
+    - target: {fileID: 4473929985827127256, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: itemtousedBtn
+      value: 
+      objectReference: {fileID: 7705147671190534662, guid: 09be9574ad2248f45bb0b7e7fbeaa1dc, type: 3}
+    - target: {fileID: 4473929985827127256, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: whichStone
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5280879182940492410, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6135332144292648740, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: level
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6135332144292648740, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: stoneName
+      value: heal
+      objectReference: {fileID: 0}
+    - target: {fileID: 6135332144292648740, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1332998437891185673, guid: 5d3591795c37084468309a7ca2f9008b, type: 3}
+    - target: {fileID: 6135332144292648740, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: itemButton
+      value: 
+      objectReference: {fileID: 4223784299578540991, guid: de27c452b2214d547b2fc0ca37f31a1d, type: 3}
+    - target: {fileID: 6135332144292648740, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: itemtousedBtn
+      value: 
+      objectReference: {fileID: 7705147671190534662, guid: 09be9574ad2248f45bb0b7e7fbeaa1dc, type: 3}
+    - target: {fileID: 6135332144292648740, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: whichStone
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 8272115289125621098, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 330e2998e2daabd4bbb2ca1d373390f2, type: 3}

@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 620b0017e6afd72428669accbf29467e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4300964748288289610
+    second: Warrior_Attack_0
+  - first:
+      213: 6685391705868418916
+    second: Warrior_Attack_1
+  - first:
+      213: -7024858587308432271
+    second: Warrior_Attack_2
+  - first:
+      213: -894263113294669211
+    second: Warrior_Attack_3
+  - first:
+      213: 1406182379018325624
+    second: Warrior_Attack_4
+  - first:
+      213: -4472242783719575159
+    second: Warrior_Attack_5
+  - first:
+      213: 4818157258297552153
+    second: Warrior_Attack_6
+  - first:
+      213: 4245723544236140990
+    second: Warrior_Attack_7
+  - first:
+      213: -8411016207965504391
+    second: Warrior_Attack_8
+  - first:
+      213: -416319139205991539
+    second: Warrior_Attack_9
+  - first:
+      213: 4948923198076700272
+    second: Warrior_Attack_10
+  - first:
+      213: 7689036892029545445
+    second: Warrior_Attack_11
+  - first:
+      213: -704218631188335310
+    second: Warrior_Attack_12
+  - first:
+      213: 8322856286832827360
+    second: Warrior_Attack_13
+  - first:
+      213: 4336130391466628013
+    second: Warrior_Attack_14
+  - first:
+      213: -3957125608547340656
+    second: Warrior_Attack_15
+  - first:
+      213: -4431504357127391016
+    second: Warrior_Attack_16
+  - first:
+      213: 3065256510715791879
+    second: Warrior_Attack_17
+  - first:
+      213: 683108010753756085
+    second: Warrior_Attack_18
+  - first:
+      213: 8429698997807298779
+    second: Warrior_Attack_19
+  - first:
+      213: -6472759103378481246
+    second: Warrior_Attack_20
+  - first:
+      213: 5202638169810179600
+    second: Warrior_Attack_21
+  - first:
+      213: 5604075523789475834
+    second: Warrior_Attack_22
+  - first:
+      213: 1339608657245661488
+    second: Warrior_Attack_23
+  - first:
+      213: -552928373083397918
+    second: Warrior_Attack_24
+  - first:
+      213: -383997282766546338
+    second: Warrior_Attack_25
+  - first:
+      213: 4435380236832850851
+    second: Warrior_Attack_26
+  - first:
+      213: 2467869939198580329
+    second: Warrior_Attack_27
+  - first:
+      213: -6468545794944359469
+    second: Warrior_Attack_28
+  - first:
+      213: 5652466352738450820
+    second: Warrior_Attack_29
+  - first:
+      213: 6321092979945944940
+    second: Warrior_Attack_30
+  - first:
+      213: -506587711182175720
+    second: Warrior_Attack_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 280
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warrior_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1196
+        width: 243
+        height: 379
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b49cc25957ef44c0800000000000000
+      internalID: -4300964748288289610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1197
+        width: 270
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f31a4f55847cc50800000000000000
+      internalID: 6685391705868418916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1196
+        width: 253
+        height: 289
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174e02a8550b28e90800000000000000
+      internalID: -7024858587308432271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 801
+        width: 261
+        height: 288
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a165cbf60f693f0800000000000000
+      internalID: -894263113294669211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 801
+        width: 244
+        height: 288
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e0dc66c63c38310800000000000000
+      internalID: 1406182379018325624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 801
+        width: 432
+        height: 360
+      alignment: 9
+      pivot: {x: 0.24, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981371712e66fe1c0800000000000000
+      internalID: -4472242783719575159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 405
+        width: 450
+        height: 351
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0764d0a9d6b1ea440800000000000000
+      internalID: 4948923198076700272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 405
+        width: 360
+        height: 351
+      alignment: 9
+      pivot: {x: 0.18, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a0baa5e8af98a20800000000000000
+      internalID: 3065256510715791879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 405
+        width: 207
+        height: 262
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb8334dd13ea7900800000000000000
+      internalID: 683108010753756085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 495
+        height: 378
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd835c7739e4cf470800000000000000
+      internalID: 8429698997807298779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 9
+        width: 459
+        height: 378
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af137eb3e32c26a0800000000000000
+      internalID: -6472759103378481246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 9
+        width: 434
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a1cfd7184cbaaf0800000000000000
+      internalID: -383997282766546338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Attack_31
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 89
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8128863292d38f8f0800000000000000
+      internalID: -506587711182175720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
